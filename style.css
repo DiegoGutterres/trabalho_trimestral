@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+        font-family: 'Oranienbaum', serif;
+        font-family: 'Poppins', sans-serif;
+}
+
+header{
+    background: #FAF9F8;
+    height: 35vh;
+}
+
+.cb-div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
+
+a{
+    padding: 20px;
+    text-decoration: none;
+    color: #3B3B3B;
+}
+
+main {
+    height: 65svh;
+    background: #F1C9BF;
+}
+
+.start-name {
+    font-size: 16px;
+    color: #3B3B3B;
+    padding: 16px;
+    margin-left: 20px;
+    letter-spacing: 2.5px;
+}
