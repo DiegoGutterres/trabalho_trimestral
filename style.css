@@ -21,18 +21,57 @@ header{
 a{
     padding: 20px;
     text-decoration: none;
-    color: #3B3B3B;
+    color: #335738;
+}
+
+.title{
+    font-family: 'DM Serif Display', serif;
+    color: #335738;
+    max-width: 40vh;
+    margin-left: 20vh;
+    margin-top: -11vh;
+    font-size: 9vh;
+}
+
+.subtitle {
+    display: flex;
+    
 }
 
 main {
     height: 65svh;
-    background: #F1C9BF;
+    background: #FC8BA6;
 }
+
 
 .start-name {
     font-size: 16px;
-    color: #3B3B3B;
+    color: #335738;
     padding: 16px;
     margin-left: 20px;
     letter-spacing: 2.5px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.img1{
+    height: 30vw;
+    width: 30vw;
+    margin-top: -10vh;
+    margin-left: 20vh;
+}
+
+.img2{
+    height: 30vh;
+    width: 30vh;
+    margin-top: -10vh;
+    padding: 3vh;
+}
+
+.img3{
+    height: 30vh;
+    
 }
