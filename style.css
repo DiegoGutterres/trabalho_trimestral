@@ -8,7 +8,7 @@
 
 header{
     background: #FAF9F8;
-    height: 35vh;
+    height: 17vw;
 }
 
 .cb-div {
@@ -16,6 +16,17 @@ header{
     align-items: center;
     justify-content: space-between;
     padding: 15px;
+}
+
+.title{
+    font-size: 49.2px;
+    margin-left: 7vh;
+    margin-top: 17vh;
+}
+
+.title1 {
+    font-size: 49.2px;
+    margin-left: 7vh;
 }
 
 a{
@@ -39,10 +50,21 @@ a{
 }
 
 main {
+<<<<<<< HEAD
     height: 65svh;
     background: #FC8BA6;
 }
 
+=======
+    height: 30vw;
+    background: #F1C9BF;
+}
+
+.subtitle {
+    margin-left: 7vh;
+
+}
+>>>>>>> 4f84651e18aa9f94b655464552ff31a4abcfe473
 
 .start-name {
     font-size: 16px;
