@@ -11,7 +11,7 @@ header{
     height: 17vw;
 }
 
-.cb-div {
+.section-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -50,21 +50,10 @@ a{
 }
 
 main {
-<<<<<<< HEAD
     height: 65svh;
     background: #FC8BA6;
 }
 
-=======
-    height: 30vw;
-    background: #F1C9BF;
-}
-
-.subtitle {
-    margin-left: 7vh;
-
-}
->>>>>>> 4f84651e18aa9f94b655464552ff31a4abcfe473
 
 .start-name {
     font-size: 16px;
@@ -80,8 +69,8 @@ main {
 }
 
 .img1{
-    height: 30vw;
-    width: 30vw;
+    height: 35vw;
+    width: 35vw;
     margin-top: -10vh;
     margin-left: 20vh;
 }
@@ -95,5 +84,9 @@ main {
 
 .img3{
     height: 30vh;
-    
+    width: 50vh;
+    margin-top: 25vh;
+    margin-left: -33vh;
+    margin-right: 30vh;
 }
+
